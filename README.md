@@ -25,4 +25,5 @@ How to use Arduino and program in Arduino code, how to communicate effectively a
 Ideally, the SHE will be able to connect to a users wrist and not have the need for a power source.
 
 [Github] https://github.com/oZep/HackNerds
+
 [Slides] https://docs.google.com/presentation/d/1NGeo-0PvH55BioimHmw_d4aBaAhLABeTnAHcM4Iky1E/edit?usp=sharing
