@@ -22,7 +22,11 @@ Despite all of us having very little to no experience with hardware, and despite
 How to use Arduino and program in Arduino code, how to communicate effectively as a team, how to connect multiple components to the Arduino.
 
 ## What's next for SHockingly Effective Motivational Tool (SHE)
-Ideally, the SHE will be able to connect to a users wrist and not have the need for a power source.
+- Ideally, the SHE will be able to connect to a users wrist and have it's own a power source so that it can be completely portable.
+
+- Reduce the size of the componements so that it's comfortable to wear
+
+- Add a Wrist Strap so that it can be worn on an wrist
 
 [Github] https://github.com/oZep/HackNerds
 [Slides] https://docs.google.com/presentation/d/1NGeo-0PvH55BioimHmw_d4aBaAhLABeTnAHcM4Iky1E/edit?usp=sharing
