@@ -29,4 +29,5 @@ How to use Arduino and program in Arduino code, how to communicate effectively a
 - Add a Wrist Strap so that it can be worn on an wrist
 
 [Github] https://github.com/oZep/HackNerds
+
 [Slides] https://docs.google.com/presentation/d/1NGeo-0PvH55BioimHmw_d4aBaAhLABeTnAHcM4Iky1E/edit?usp=sharing
