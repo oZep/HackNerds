@@ -2,7 +2,7 @@
 This project is for Challenge 1 (Life Analyzer) and 2 (Movement Tracker):
 
 ## Inspiration
-We understand that Zen and many other people use tools to regularly monitor their physical activities, but does it really motivate people to maintain healthy their habits? It's very easy for a person to see that they're unhealthy but not have the motivation to do anything about it. One way to incentivize more activity is to __dis__incentivize __in__activity. We wanted to create a product that doesn't let a user ignore when they've been inactive, and that's when we created the idea for the SHE.
+We understand that Zen and many other people use tools to regularly monitor their physical activities, but does it really motivate people to maintain healthy their habits? It's very easy for a person to see that they're unhealthy but not have the motivation to do anything about it. One way to incentivize more activity is to _dis_incentivize _in_activity. We wanted to create a product that doesn't let a user ignore when they've been inactive, and that's when we created the idea for the SHE.
 
 ## What it does
 The SHE (SHockingly Effective Motivational Tool) is a tool much like similar health monitors, but when one's heart rate and movement is below a certain threshold, they are deemed inactive and a small shock is given to the user. The shock stops when the user becomes active. This is to motivate the user to always remain active and keep on moving!
@@ -27,7 +27,18 @@ How to use Arduino and program in Arduino code, how to communicate effectively a
 - Reduce the size of the componements so that it's comfortable to wear
 
 - Add a Wrist Strap so that it can be worn on an wrist
+  
+- Improve the accuracy of the heart rate monitor to better detect whether or not the user is properly exercising
 
+- 
+  
 [Github] https://github.com/oZep/HackNerds
 
-[Slides] https://docs.google.com/presentation/d/1NGeo-0PvH55BioimHmw_d4aBaAhLABeTnAHcM4Iky1E/edit?usp=sharing
+[Slides] https://docs.g
+
+https://github.com/oZep/HackNerds/assets/97713154/5fade753-270e-4f94-9e06-8a7f6a6d16b7
+
+oogle.com/presentation/d/1NGeo-0PvH55BioimHmw_d4aBaAhLABeTnAHcM4Iky1E/edit?usp=sharing
+
+![demo](https://github.com/oZep/HackNerds/assets/97713154/52a89d8a-c20a-48f2-82af-53be3e6fa72f)
+
