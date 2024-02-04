@@ -146,7 +146,7 @@ void loop()
     Serial.print(" No finger?");
 
   Serial.println();
-  delay(1000);
+  delay(500);
 
   buttonState = !digitalRead(buttonPin);
 
