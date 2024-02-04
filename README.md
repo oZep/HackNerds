@@ -30,7 +30,7 @@ How to use Arduino and program in Arduino code, how to communicate effectively a
   
 - Improve the accuracy of the heart rate monitor to better detect whether or not the user is properly exercising
 
-- 
+- Allow the user to choose the sensitivity of the motivational apparatus from simple vibration to more intense electrical stimulus
   
 [Github] https://github.com/oZep/HackNerds
 
