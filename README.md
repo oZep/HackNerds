@@ -34,11 +34,10 @@ How to use Arduino and program in Arduino code, how to communicate effectively a
   
 [Github] https://github.com/oZep/HackNerds
 
-[Slides] https://docs.g
+[Slides] https://docs.google.com/presentation/d/1NGeo-0PvH55BioimHmw_d4aBaAhLABeTnAHcM4Iky1E/edit?usp=sharing
 
 https://github.com/oZep/HackNerds/assets/97713154/5fade753-270e-4f94-9e06-8a7f6a6d16b7
 
-oogle.com/presentation/d/1NGeo-0PvH55BioimHmw_d4aBaAhLABeTnAHcM4Iky1E/edit?usp=sharing
 
 ![demo](https://github.com/oZep/HackNerds/assets/97713154/52a89d8a-c20a-48f2-82af-53be3e6fa72f)
 
